@@ -2,6 +2,15 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.7.
 
+# Link to the tutorial
+
+Navigate to `https://www.youtube.com/watch?time_continue=1&v=2HcBR3DQUQ4`.
+
+Tutorial level: beginner
+
+Contains:
+- Material design
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
